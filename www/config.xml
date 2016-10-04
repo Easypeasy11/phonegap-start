@@ -6,7 +6,7 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>BE-BOP Testing</name>
 
     <description>
         Hello There World! sample application that responds to the deviceready event.
